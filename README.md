@@ -15,4 +15,4 @@ Depending on your device's architecture, choose the appropriate APK to download:
 - [Download app-armeabi-v7a-release.apk](https://github.com/philwamba/genowellneshub_download/raw/main/downloads/app-armeabi-v7a-release.apk) (For armeabi-v7a architecture)
 
 ## Licence
-&copy; Copyright [Vinetech Digital LLC](https://vinetech.co.ke). All rights reserved.
+&copy; 2024 [Vinetech Digital LLC](https://vinetech.co.ke). All rights reserved.
